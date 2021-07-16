@@ -1,0 +1,23 @@
+.footer {
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    padding: 0 10%;
+    align-items: center;
+    background-color: #77002e;
+  }
+
+.text {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+}
+
+.centered {
+  margin: 3rem auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
